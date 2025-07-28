@@ -1,0 +1,41 @@
+body{
+    
+}
+#box{
+    margin: auto;
+    width: 60vw;
+    height: 70vh;
+    border: 2px solid;
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px grey;
+    text-align: center;
+
+}
+#theimage{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    box-shadow: 0px 0px 5px violet;
+    margin:1%;
+}
+#username{
+    border: 1px solid gray;
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px skyblue;
+    padding: 1%;
+}
+#password{
+    border: 1px solid gray;
+    border-radius: 25px;
+    box-shadow: 0px 0px 5px skyblue;
+    padding: 1%;
+}
+
+#submitbtn{
+    font-size: 1.5em;
+    border: 2px solid rgb(166, 166, 239);
+    border-radius: 25px;
+    box-shadow: 0px 0px 10px rgb(255, 175, 255);
+    margin: 1%;
+    padding:1%;
+}
